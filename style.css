@@ -1,0 +1,114 @@
+*{
+
+  
+}
+body{
+  background-color: black;
+}
+.container{
+  display:flex
+}
+
+h1{
+  display: flex;
+  color:rgb(0, 0, 0);
+  font-size:50px;
+  font-family:fantasy;
+  font-weight:500;
+  padding-left: 10px;
+}
+.nav-container{
+  display:flex;
+  justify-content: flex-start;
+  height: 100px;
+  background-color: rgb(11, 207, 11);
+  border-radius:20px;
+  margin: 20px;
+  
+}
+
+
+.nav-list{
+  padding-left: 400px;
+  display:flex; 
+  justify-content: flex-start;
+  list-style: none;
+  word-spacing:normal;
+
+  
+ 
+  
+}
+
+.list-items{
+  padding-left:10px;
+  list-style: none;
+  text-decoration:underline;
+  margin-left:8px;
+  font-size: 20px;
+  font-family: fantasy;
+  color:black;
+  
+}
+
+.Me{
+  height: 20%;
+  margin-bottom: 25px;
+  margin:20px;
+  padding-left:480px;
+  justify-content:center;
+  
+}
+
+.About p{
+  padding-top:30px;
+  padding-left:10px;
+  font-size:15px;
+  font-family: monospace ;
+}
+
+.About{
+  display:flex;
+  justify-content:left;
+  height: 150px;
+  background-color: rgb(122, 25, 141);
+  border-radius: 20px;
+  margin: 20px;
+  
+}
+
+
+.Work{
+  display:flex;
+  justify-content:left;
+  height: 400px;
+  background-color: rgb(11, 207, 11);
+  border-radius: 20px;
+  margin: 20px;
+}
+
+.Resume{
+  display:flex;
+  justify-content:left;
+  height: 150px;
+  background-color: rgb(161, 189, 39);
+  border-radius: 20px;
+  margin: 20px;
+  
+}
+.Contact{
+  display:flex;
+  justify-content:left;
+  height: 150px;
+  background-color: rgb(11, 207, 11);
+  border-radius: 20px;
+  margin: 20px;
+}
+
+
+h3{
+  text-decoration:underline;
+  font-family: fantasy;
+  padding-left:10px;
+  
+}
