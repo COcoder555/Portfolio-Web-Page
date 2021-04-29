@@ -1,7 +1,7 @@
-*{
+/* *{
 
   
-}
+} */
 body{
   background-color: black;
 }
@@ -60,14 +60,14 @@ h1{
 .About p{
   padding-top:30px;
   padding-left:10px;
-  font-size:15px;
+  font-size:21px;
   font-family: monospace ;
 }
 
 .About{
   display:flex;
   justify-content:left;
-  height: 150px;
+  height: 250px;
   background-color: rgb(122, 25, 141);
   border-radius: 20px;
   margin: 20px;
@@ -78,7 +78,7 @@ h1{
 .Work{
   display:flex;
   justify-content:flex;
-  height: 880px;
+  height: 1100px;
   background-color: rgb(11, 207, 11);
   border-radius: 20px;
   margin: 20px;
@@ -87,11 +87,19 @@ h1{
 }
 
 .Work-list{
-  display:inline-block;
-  flex-direction:;
+  display:block;
+  /* flex-direction:; */
   list-style: none;
+  font-style:unset;
+  font-family:monospace;
+  font-size: 18px;
   
 
+}
+
+.Work h3{
+  margin-right:20px;
+  
 }
 
 .Contact{
@@ -102,11 +110,18 @@ h1{
   border-radius: 20px;
   margin: 20px;
 }
+a{
+  margin-left:40px;
+  margin-top:40px;
+  font-size: 20px;
+}
 
 
 h3{
   text-decoration:underline;
   font-family: fantasy;
   padding-left:10px;
+  margin-top:20px;
+  font-size:30px;
   
 }
