@@ -53,7 +53,7 @@ h1{
 }
 
 .Me{
-  height: 20%;
+  height: 630px;
   margin-bottom: 25px;
   margin:20px;
   padding-left:480px;
@@ -66,6 +66,9 @@ h1{
 }
 #Me{
   border-radius:20px;
+  margin-top:20px;
+  border-style: ridge;
+  border-width: 10px;
 }
 
 .About p{
@@ -142,4 +145,10 @@ h3{
   margin-top:20px;
   font-size:30px;
   
+}
+
+.pic{
+  margin:10px;
+  border-style: groove;
+  border-width:5px;
 }
