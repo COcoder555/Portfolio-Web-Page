@@ -16,6 +16,7 @@ h1{
   font-family:fantasy;
   font-weight:500;
   padding-left: 10px;
+  margin-top:10px;
 }
 .nav-container{
   display:flex;
@@ -24,11 +25,14 @@ h1{
   background-color: rgb(11, 207, 11);
   border-radius:20px;
   margin: 20px;
+  border-style:groove;
+  border-width: 10px;
   
 }
 
 
 .nav-list{
+  margin-top:10px;
   padding-right:10px;
   display:flex; 
   justify-content: flex-start;
@@ -54,7 +58,14 @@ h1{
   margin:20px;
   padding-left:480px;
   justify-content:center;
+  background-color: rgb(116, 37, 190);
+  border-style:groove;
+  border-width: 15px;
+  border-radius: 40px;
   
+}
+#Me{
+  border-radius:20px;
 }
 
 .About p{
@@ -71,6 +82,8 @@ h1{
   background-color: rgb(122, 25, 141);
   border-radius: 20px;
   margin: 20px;
+  border-style: groove;
+  border-width:15px;
   
 }
 
@@ -83,7 +96,8 @@ h1{
   border-radius: 20px;
   margin: 20px;
   padding-top:  90px;
-  
+  border-style: groove;
+  border-width: 15px;
 }
 
 .Work-list{
@@ -109,11 +123,15 @@ h1{
   background-color: rgb(11, 207, 11);
   border-radius: 20px;
   margin: 20px;
+  border-style: groove;
+  border-width: 15px;
 }
 a{
   margin-left:40px;
   margin-top:40px;
   font-size: 20px;
+  color:blueviolet;
+  font-size: 30px;
 }
 
 
