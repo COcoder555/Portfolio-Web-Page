@@ -13,7 +13,7 @@ h1{
   display: flex;
   color:rgb(0, 0, 0);
   font-size:50px;
-  font-family:fantasy;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
   font-weight:500;
   padding-left: 10px;
   margin-top:10px;
@@ -47,7 +47,7 @@ h1{
   text-decoration:underline;
   margin-left:8px;
   font-size: 20px;
-  font-family: fantasy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
   color:black;
   
 }
@@ -94,7 +94,7 @@ h1{
 .Work{
   display:flex;
   justify-content:flex;
-  height: 1200px;
+  height: 1400px;
   background-color: rgb(11, 207, 11);
   border-radius: 20px;
   margin: 20px;
@@ -141,7 +141,7 @@ a{
 
 h3{
   text-decoration:underline;
-  font-family: fantasy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
   padding-left:10px;
   margin-top:20px;
   font-size:30px;
@@ -156,4 +156,15 @@ footer{
   margin:10px;
   border-style: groove;
   border-width:5px;
+}
+
+h4{
+  color:black;
+  text-align: left;
+  padding-left:50px;
+  margin:10px;
+  font-size: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: lighter;
+  text-decoration:underline;
 }
