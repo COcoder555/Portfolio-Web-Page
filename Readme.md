@@ -6,7 +6,7 @@
 * The nav bar
 * The image of "Me"
 * The "About Me" section
-* The "WOrk" section
+* The "Work" section
 * The "Conact Info" section
 
 ### Backgroud
@@ -66,3 +66,5 @@
 ## Link to deployed website and screen shot of the application.
 
 https://cocoder555.github.io/Portfolio-Web-Page/
+
+![screenshot1](/assets/screenshot1.png)
