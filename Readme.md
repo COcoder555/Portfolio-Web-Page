@@ -18,10 +18,10 @@
 * I created three links which I displayed on the right side of the nav bar.   The three links I created were the "About Me" section, the "Work" section, and the "Contact Info" section.
 * Using CSS I added a background color of green.  
 * I  added "groove" styling to the border and changed the font-famiy to "Impact."
-* I made it so the links correspond to thier rerspective sections.
+* I made it so the links correspond to their respective sections.
 
 ### The construction of the image "ME" section
-* To begin I created a class called "ME."  I created a box and imported an image of myself.
+* I created a class called "ME."  I created a box and imported an image of myself.
 * I used CSS to give the border "groove" styling and changed the background color to purple.
 
 ### The construction of the "About Me" section
@@ -32,7 +32,7 @@
     * The title's font-family to "Impact."
     * The content string font-family to "monospace."
     * The background color to a darker purple.
-    * The boder-style to grouve.
+    * The boder-style to "groove."
     
 
 ### The Construction of the "Work" section
