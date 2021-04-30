@@ -65,6 +65,7 @@ h1{
   
 }
 #Me{
+  display: flex;
   border-radius:20px;
   margin-top:20px;
   border-style: ridge;
@@ -72,6 +73,7 @@ h1{
 }
 
 .About p{
+  display: flex;
   padding-top:30px;
   padding-left:10px;
   font-size:21px;
@@ -93,7 +95,6 @@ h1{
 
 .Work{
   display:flex;
-  justify-content:flex;
   height: 1400px;
   background-color: rgb(11, 207, 11);
   border-radius: 20px;
@@ -105,7 +106,6 @@ h1{
 
 .Work-list{
   display:block;
-  /* flex-direction:; */
   list-style: none;
   font-style:unset;
   font-family:monospace;
@@ -113,6 +113,7 @@ h1{
   
 
 }
+
 
 .Work h3{
   margin-right:20px;
