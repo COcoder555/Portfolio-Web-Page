@@ -1,7 +1,7 @@
 # Portfolio Web Page
 * Portfolio Web Page is our 2nd assignment. It showcases some mock projects but also showcases my current understanding of HTML and CSS.
 
-## Contents of page sections:
+## CONTENTS OF PAGE SECTIONS:
 * Background 
 * The nav bar
 * The image of "Me"
@@ -61,7 +61,7 @@
 * I used CSS to change the font-family of the title to "Impact."
 * I ueed CSS to change the font-family of the links to "monospace."
 * I used CSS to change the background color to green.
-* I used CSS to change the boder-style to "grouve."
+* I used CSS to change the border-style to "groove."
 
 
 ## Link to deployed website and screen shots of the application.
