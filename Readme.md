@@ -63,8 +63,11 @@
 * I used CSS to change the boder-style to "grouve."
 
 
-## Link to deployed website and screen shot of the application.
+## Link to deployed website and screen shots of the application.
 
 https://cocoder555.github.io/Portfolio-Web-Page/
 
 ![screenshot1](/assets/screenshot1.png)
+![screenshot2](/assets/screenshot2.png)
+![screenshot3](/assets/screenshot3.png)
+![screenshot4](/assets/screenshot4.png)
