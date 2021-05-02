@@ -103,7 +103,7 @@ h1{
 }
 
 .Work-list{
-  display:block;
+  display:flexbox;
   list-style: none;
   font-style:unset;
   font-family:monospace;
