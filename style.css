@@ -130,7 +130,8 @@ h1{
 }
 .Contact a{
   display:flex;
-  margin-left:40px;
+  margin-left:1vw;
+  margin-right:2vw;
   margin-top:40px;
   font-size: 20px;
   color:rgb(52, 13, 88);
@@ -148,11 +149,16 @@ h3{
   
 }
 
+.Work p{
+  display: flex;
+}
+
 footer{
   height:10px;
 }
 
 .pic{
+  display:flex;
   margin:10px;
   border-style: groove;
   border-width:5px;
