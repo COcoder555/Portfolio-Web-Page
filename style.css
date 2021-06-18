@@ -134,9 +134,8 @@ h1{
   margin-left:1vw;
   margin-right:2vw;
   margin-top:40px;
-  font-size: 20px;
   color:rgb(52, 13, 88);
-  font-size: 200%;
+  font-size: 125%;
   font-family: monospace;
 }
 
@@ -176,15 +175,30 @@ h4{
   text-decoration:underline;
 }
 
+@media screen and (max-width:375px){
+  #Me{
+    width: 90%;
+  }
+}
 
-@media screen and (max-width:400px) {
+
+@media screen and (max-width:768px) {
   img{max-width: 280px;}
   .Contact{margin:0px;
     display: flex;
-    align-items: flex-start;}
-  .Work{margin:0px}
+    }
+  .Work{margin:0px;}
+  body{margin:0 auto;}
   .Contact a {
     display: block;
-  }
+    }
   
 }
+
+@media screen and (max-width:849px){
+.Contact{
+  flex-direction: column;
+}
+
+}
+
